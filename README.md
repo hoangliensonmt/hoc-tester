@@ -8,4 +8,4 @@ Vui lòng liên hệ:
 - Hoàng Liên Sơn
 - 090 942 6181
 - hoangliensonmt (Skype)
-- (https://www.facebook.com/testingvn)[https://www.facebook.com/testingvn]
+- [https://www.facebook.com/testingvn](https://www.facebook.com/testingvn)
